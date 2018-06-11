@@ -1,0 +1,10 @@
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\bin\Debug\netcoreapp1.1\ConsoleDrawing.deps.json
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\bin\Debug\netcoreapp1.1\ConsoleDrawing.runtimeconfig.json
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\bin\Debug\netcoreapp1.1\ConsoleDrawing.runtimeconfig.dev.json
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\bin\Debug\netcoreapp1.1\ConsoleDrawing.dll
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\bin\Debug\netcoreapp1.1\ConsoleDrawing.pdb
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\obj\Debug\netcoreapp1.1\ConsoleDrawing.csprojResolveAssemblyReference.cache
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\obj\Debug\netcoreapp1.1\ConsoleDrawing.csproj.CoreCompileInputs.cache
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\obj\Debug\netcoreapp1.1\ConsoleDrawing.AssemblyInfo.cs
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\obj\Debug\netcoreapp1.1\ConsoleDrawing.dll
+c:\users\jshang\source\repos\ConsoleDrawing\ConsoleDrawing\obj\Debug\netcoreapp1.1\ConsoleDrawing.pdb
